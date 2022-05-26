@@ -1,0 +1,3 @@
+[submodule "Arduino_SK6812"]
+	path = Arduino_SK6812
+	url = https://github.com/Electry/Arduino_SK6812
